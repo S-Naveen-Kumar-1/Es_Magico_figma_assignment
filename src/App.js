@@ -8,6 +8,7 @@ import { Features } from './components/Features';
 import { CustomerReview } from './components/CustomerReview';
 import { ApplicationForm } from './components/ApplicationForm';
 import { Refer } from './components/Refer';
+import { Faqs } from './components/Faqs';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <CustomerReview />
       <ApplicationForm />
       <Refer />
+      <Faqs />
     </div>
   );
 }
