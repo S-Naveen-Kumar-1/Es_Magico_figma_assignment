@@ -9,6 +9,7 @@ import { CustomerReview } from './components/CustomerReview';
 import { ApplicationForm } from './components/ApplicationForm';
 import { Refer } from './components/Refer';
 import { Faqs } from './components/Faqs';
+import { Footer } from './components/Footer';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
       <ApplicationForm />
       <Refer />
       <Faqs />
+      <Footer />
     </div>
   );
 }
