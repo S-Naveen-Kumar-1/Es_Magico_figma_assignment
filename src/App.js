@@ -7,6 +7,7 @@ import { Partners } from './components/Partners';
 import { Features } from './components/Features';
 import { CustomerReview } from './components/CustomerReview';
 import { ApplicationForm } from './components/ApplicationForm';
+import { Refer } from './components/Refer';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Features />
       <CustomerReview />
       <ApplicationForm />
+      <Refer />
     </div>
   );
 }
