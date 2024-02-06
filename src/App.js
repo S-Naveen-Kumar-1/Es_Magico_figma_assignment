@@ -4,6 +4,9 @@ import { Navbar } from './components/Navbar';
 import { Herosection } from './components/Herosection';
 import { PersonalLoan } from './components/PersonalLoan';
 import { Partners } from './components/Partners';
+import { Features } from './components/Features';
+import { CustomerReview } from './components/CustomerReview';
+import { ApplicationForm } from './components/ApplicationForm';
 
 function App() {
   return (
@@ -12,6 +15,9 @@ function App() {
       <Herosection />
       <PersonalLoan />
       <Partners />
+      <Features />
+      <CustomerReview />
+      <ApplicationForm />
     </div>
   );
 }
