@@ -3,10 +3,7 @@ import React from "react";
 export const Herosection = () => {
   return (
     <div className="flex flex-col-reverse md:flex-row m-5 top-[41px]">
-      <div
-        className="md:w-[60%] w-full mb-5 md:mb-0"
-        style={{ border: "1px solid black" }}
-      >
+      <div className="md:w-[60%] w-full mb-5 md:mb-0">
         <div className="font-[Proxima Nova A] font-bold text-4xl md:text-6xl text-[#2A2A2A] mt-8 ">
           <h1>Turn Dreams into Reality</h1>
           <h1>
@@ -16,7 +13,7 @@ export const Herosection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 justify-center items-center mt-8 p-5 ">
           <div className="flex align-middle items-center gap-[17px] mb-8">
             <img
-              src="frame1.png"
+              src="Frame1.png"
               alt=""
               className="h-[60px] w-[60px] rounded-[20px]"
             />
@@ -31,7 +28,7 @@ export const Herosection = () => {
           </div>
           <div className="flex align-middle items-center  gap-[17px] mb-8">
             <img
-              src="frame2.png"
+              src="Frame2.png"
               alt=""
               className="h-[60px] w-[60px] rounded-[20px]"
             />
@@ -44,7 +41,7 @@ export const Herosection = () => {
           </div>
           <div className="flex align-middle items-center  gap-[17px] mb-8">
             <img
-              src="frame3.png"
+              src="Frame3.png"
               alt=""
               className="h-[60px] w-[60px] rounded-[20px]"
             />
@@ -57,7 +54,7 @@ export const Herosection = () => {
           </div>
           <div className="flex align-middle items-center  gap-[17px] mb-8">
             <img
-              src="frame4.png"
+              src="Frame4.png"
               alt=""
               className="h-[60px] w-[60px] rounded-[20px]"
             />

@@ -4,7 +4,11 @@ export const PersonalLoan = () => {
   return (
     <div className="md:flex md:flex-col">
       <div className="flex gap-[11px] ml-[80px]">
-        <img src="loader.png" alt="" />
+        <img
+          src="loader.png"
+          alt=""
+          className=" w-[50px] h-[50px] max-w-[514px] "
+        />
         <h1 className="font-semibold text-[44px] text-[#2A2A2A]">
           Personal Loan Highlights
         </h1>

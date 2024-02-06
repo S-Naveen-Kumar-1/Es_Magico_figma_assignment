@@ -3,7 +3,7 @@ import React from "react";
 export const ApplicationForm = () => {
   return (
     <div className="ml-[60px] mt-[94px]">
-      <div className="flex m-5">
+      <div className="flex flex-col md:flex-row m-5">
         <div
           className="flex gap-[10px] align-middle items-center m-auto rounded-md  w-[279px] justify-center h-[80px]"
           style={{
@@ -50,7 +50,7 @@ export const ApplicationForm = () => {
         </div>
       </div>
       <div
-        className="flex mt-[-21px] m-[2px] mr-5 rounded justify-around  "
+        className="flex flex-col-reverse md:flex-row mt-[-21px] m-[2px] mr-5 rounded justify-around  "
         style={{
           border: "1px solid #DCDCDC",
           borderRadius: "20px, 20px, 0px, 0px",
@@ -116,7 +116,7 @@ export const ApplicationForm = () => {
           <img
             src="loan.png"
             alt=""
-            className="w-64 h-64 m-auto items-center align-middle mt-[50px]"
+            className="w-64 h-64 m-auto items-center"
           />
         </div>
       </div>

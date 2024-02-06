@@ -2,7 +2,7 @@ import React from "react";
 
 export const Refer = () => {
   return (
-    <div className="flex justify-around mt-20 gap-[20px]">
+    <div className="flex align-middle items-center flex-col-reverse md:flex-row justify-around mt-20 gap-[20px]">
       <div className="mt-[90px]">
         <h1 className="font-semibold text-[44px] text-[#2A2A2A]">
           Refer & Earn Now
