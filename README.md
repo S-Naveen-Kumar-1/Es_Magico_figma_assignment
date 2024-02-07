@@ -33,7 +33,8 @@ The **Partners component** showcases the partners or sponsors associated with th
 ### Responsive Design
 The website is designed to be responsive, adjusting its layout and appearance based on the screen size. It provides a user-friendly experience across various devices, from mobile phones to desktop computers.
 <br>
-![navbar1](https://github.com/S-Naveen-Kumar-1/Es_Magico_figma_assignment/assets/130354961/c053c1a1-e176-4798-a673-c450c30f7a6e)![loan](https://github.com/S-Naveen-Kumar-1/Es_Magico_figma_assignment/assets/130354961/747cd293-0943-49d5-bcfa-3686bf716a97)![bank](https://github.com/S-Naveen-Kumar-1/Es_Magico_figma_assignment/assets/130354961/81fcd292-f294-47b5-adf0-eec20ab78845)![faqs](https://github.com/S-Naveen-Kumar-1/Es_Magico_figma_assignment/assets/130354961/8092837d-793e-4dc8-9c1c-e52bf06bfe33)
+![navbar1](https://github.com/S-Naveen-Kumar-1/Es_Magico_figma_assignment/assets/130354961/c053c1a1-e176-4798-a673-c450c30f7a6e)![loan](https://github.com/S-Naveen-Kumar-1/Es_Magico_figma_assignment/assets/130354961/747cd293-0943-49d5-bcfa-3686bf716a97)![bank](https://github.com/S-Naveen-Kumar-1/Es_Magico_figma_assignment/assets/130354961/81fcd292-f294-47b5-adf0-eec20ab78845)![faqs](https://github.com/S-Naveen-Kumar-1/Es_Magico_figma_assignment/assets/130354961/8092837d-793e-4dc8-9c1c-e52bf06bfe33)![intrest](https://github.com/S-Naveen-Kumar-1/Es_Magico_figma_assignment/assets/130354961/52773915-a2b1-4753-965a-a99a6b6c8d94)
+
 
 
 
