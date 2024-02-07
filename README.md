@@ -32,7 +32,14 @@ The **Partners component** showcases the partners or sponsors associated with th
 
 ### Responsive Design
 The website is designed to be responsive, adjusting its layout and appearance based on the screen size. It provides a user-friendly experience across various devices, from mobile phones to desktop computers.
+<br>
 ![navbar1](https://github.com/S-Naveen-Kumar-1/Es_Magico_figma_assignment/assets/130354961/c053c1a1-e176-4798-a673-c450c30f7a6e)
+
+<hr>
+## 🌐 Deployment
+<h1><strong>Vercel Link:</strong> <a href="https://esm-figma.vercel.app/">ESM Figma</a></h1>
+
+<hr>
 To install and use the code, follow these steps:
 
 1. Clone the repository to your local machine:
