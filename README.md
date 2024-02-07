@@ -48,7 +48,7 @@ To install and use the code, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/S-Naveen-Kumar-1/Es_Magico_figma_assignment.git>
     ```
 
 2. Navigate to the project directory:
