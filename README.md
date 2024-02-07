@@ -38,6 +38,10 @@ The website is designed to be responsive, adjusting its layout and appearance ba
 
 
 
+## 🚀 Tech Stacks
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for quickly building custom designs.
+- **React Icons**: A library for easily including icons in React applications.
 
 <hr>
 ## 🌐 Deployment
